@@ -11,9 +11,11 @@ In the first level :
 - I have created foilage.
 - I have created land with different textures, creast and trough.
 - A room which has
-   ceiling which breathes light.
-   a mirror
-   a window through which sun rays can enter in the room
+  ```sh
+   -- ceiling which breathes light.
+   -- a mirror
+   -- a window through which sun rays can enter in the room
+  ```
 - Drugged Environment : The environment makes the player feel like the player is on drugs.
 - The house has a staircase attached to it that takes the player to the rooftop.
 - The rooftop contains a table and an Unreal logo and also a bench to sit on.
