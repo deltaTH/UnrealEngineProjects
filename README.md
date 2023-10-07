@@ -54,3 +54,18 @@ The tutorial I followed was based on UE4 but I was making the project on UE5, th
 
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/iY-nsmHyHGs/0.jpg)](http://www.youtube.com/watch?v=iY-nsmHyHGs "Project Learn")
+
+
+## Project 3 : Platform Side Runner
+[Project Link - Onedrive(compressed)](https://mmmutgkp-my.sharepoint.com/:u:/g/personal/2020021003_mmmut_ac_in/EXro-8KWwBJMmNCLj-3-RS4Bch3_tSjkP9hWING5M6cJ-A?e=BVzTUr)
+
+This game was created in UE4.
+This game is a endless platform runner game made using C++ (on Visual Studio Code) and UE4. The game contains a player that finds his way through the levels by hurdling through spikes and game elements.
+To make the game more intresting, there is a wall that continuously tries to run over and kill our player and our player has to outrun this wall while also being safe from spikes.
+
+
+### Project video
+
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/1AtW7vHYrrk/0.jpg)](http://www.youtube.com/watch?v=1AtW7vHYrrk "Project Learn")
+
